@@ -1,13 +1,13 @@
-## Codify Club 🚀
+### Codify Club 🚀
 Welcome to Codify Club — where opportunity meets innovation! We're a community of passionate coders, creators, and problem-solvers. Whether you're hunting for your next internship, looking to ace college exams, or eager to elevate your coding skills, Codify is your all-in-one platform for success.
 
 ## 🌟 Unlock Career Opportunities
 At Codify, we believe that your career should start now, not after graduation! We actively share the latest opportunities, from internships to full-time roles in tech. Our members stay informed and prepared to jumpstart their careers while still in college.
 
-##💡 Learn to Code Smarter, Not Harder
+## 💡 Learn to Code Smarter, Not Harder
 We simplify coding for everyone — beginners and pros alike. From hands-on coding sessions to collaborative projects, we help you break down complex concepts and solve real-world challenges.
 
-##📚 Crush College with Our Resources
+## 📚 Crush College with Our Resources
 Why stress about exams or coursework? Codify offers a wealth of college resources, including:
 
 📄 Notes: Detailed and well-organized study notes to make your life easier.
