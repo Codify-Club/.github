@@ -18,12 +18,12 @@ Why stress about exams or coursework? Codify offers a wealth of college resource
 - 📝 Previous Exam Papers: Practice with real past papers to ace your tests.
 - 🎯 Guides: Tips and strategies for managing your academic workload.
 - 🎯 Activities and Events
-- 
+  
 ## We host a variety of events aimed at both personal and professional growth:
 
 - Workshops: Master new technologies through hands-on experience.
 - Hackathons: Compete, collaborate, and innovate alongside peers.
 - Guest Speakers: Learn from industry experts and get insider tips.
-- 
+  
 ## 👥 How to Join Us
 Ready to be part of something bigger? Codify is open to anyone with a passion for coding and a drive to succeed. Sign up here or reach out via email: codify@clubmail.com.
