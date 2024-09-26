@@ -14,9 +14,9 @@ We simplify coding for everyone — beginners and pros alike. From hands-on codi
 
 Why stress about exams or coursework? Codify offers a wealth of college resources, including:
 
-- 📄 Notes: Detailed and well-organized study notes to make your life easier.
-- 📝 Previous Exam Papers: Practice with real past papers to ace your tests.
-- 🎯 Guides: Tips and strategies for managing your academic workload.
+- 📄 **Notes:** Detailed and well-organized study notes to make your life easier.
+- 📝 **Previous Exam Papers:** Practice with real past papers to ace your tests.
+- 🎯 **Guides:** Tips and strategies for managing your academic workload.
 - 🎯 Activities and Events
   
 ## We host a variety of events aimed at both personal and professional growth:
